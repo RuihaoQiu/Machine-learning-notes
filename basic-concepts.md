@@ -1,3 +1,4 @@
-# Supervised classification
-A set of labeled examples with different features.
-To find the good features that can seperate the examples in a certain way.
+# Basic concepts
+## Supervised classification
+Assume that we have a set of labeled examples with different features.
+We would like to find a good way to separate the examples with certain features.
