@@ -1,9 +1,3 @@
----
-layout: page
-title: Basic
-permalink: /basic-concepts/
----
-
 # Basic concepts
 ## Supervised learning
 ### Classification
