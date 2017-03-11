@@ -9,9 +9,14 @@ Assume that we have a set of labeled examples with different features. We would 
 - **Decision surface/boundary:** the surface that well separate given data.
 
 Models:
-1. **Nearest neighbor**
-2. **Naive Bayes**
-3. **SVM -- Support vector machine**
+1. **Nearest neighbor -- _k_NN**  
+Pick up a certain point, count _k_ nearest neighbors, this point will be assigned to the classification of the majority. Only one parameter to be considered, **_k_ - the number of neighbors**. Small _k_, lower accuracy and higher interpretability.
+
+2. **Naive Bayes**  
+**Bayes’ Theorem** Obtain the posterior possibility from the prior, through the formula P(A|B) = P(B|A) * P(A) / P(B)
+
+
+3. **Support vector machine -- SVM**
 4. **Decision tree**
 
 ### Regression
