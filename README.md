@@ -8,7 +8,7 @@ Assume that we have a set of labeled examples with different features. We would 
 
 - **Decision surface/boundary:** the surface that well separate given data.
 
-Models:
+Models:  
 1. **Nearest neighbor -- _k_NN**  
 Pick up a certain point, count _k_ nearest neighbors, this point will be assigned to the classification of the majority. Only one parameter to be considered, **_k_ - the number of neighbors**.  
 **Optimize _k_:**  
@@ -21,6 +21,7 @@ For a given testing dataset, calculate the posterior possibility of each class, 
 The prior possibilities can be estimated from Gaussian distribution parameterized by the mean and variance of each class.
 
 3. **Support vector machine -- SVM**
+
 
 4. **Decision tree**
 
