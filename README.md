@@ -4,41 +4,22 @@ This is a very personal notes of machine learning study, recording my understand
 
 
 
+### Table of contents
+
 ------
 
-- ### Basic concepts
+- ### [Basic concepts](https://nbviewer.jupyter.org/github/RuihaoQIU/Machine-learning-notes/blob/master/Notes/Basic%20concepts.ipynb)
 
 
 - ### Classification
 
-  #### Nearest neighbor — _k_ NN
+  #### [Nearest neighbor — _k_ NN](https://nbviewer.jupyter.org/github/RuihaoQIU/Machine-learning-notes/blob/master/Notes/Nearest%20neighbors.ipynb)
 
-  #### Naive Bayes
+  #### [Naive Bayes](https://nbviewer.jupyter.org/github/RuihaoQIU/Machine-learning-notes/blob/master/Notes/Naive%20Bayes.ipynb)
 
-  #### Support vector machine -- SVM
+  #### [Support vector machine — SVM](https://nbviewer.jupyter.org/github/RuihaoQIU/Machine-learning-notes/blob/master/Notes/Support%20vector%20machine.ipynb)
 
-  #### Decision tree
+  #### [Decision tree](https://nbviewer.jupyter.org/github/RuihaoQIU/Machine-learning-notes/blob/master/Notes/Decision%20tree.ipynb)
 
-  ​
+  ### 
 
-- ### Regression
-
-Assume that we have a set of labeled examples with different features. We would like to find a good way to separate the examples with certain features. This classification can be used to predict new properties of unknow data. _e.g._ cat and tiger -- size, color, sound, ... 
-
-- **Decision surface/boundary:** the surface that well separate given data.
-
-
-
-#### Regression
-
-The output variables are continous. _e.g._ height -- weight
-
-
-
-### Unsupervised learning
-
-Examples without labels. _e.g._ credit default of bank customers
-
-#### Clustering
-
-Discover groups of similar examples. 
