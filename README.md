@@ -21,5 +21,39 @@ This is a very personal notes of machine learning study, recording my understand
 
   #### [Decision tree](https://nbviewer.jupyter.org/github/RuihaoQIU/Machine-learning-notes/blob/master/Notes/Decision%20tree.ipynb)
 
+- ### Regression
+
+  #### [Traditional regressions (linear, logistic, polynomial)]()
+
+  #### [Regression Tree]()
+
+- ### Clustering
+
+  #### [K-Means]()
+
+  #### [Hierarchical / Agglomerative]()
+
+- ### Feature selection
+
+- ### Deep learning
+
+  ### 
+
+- ### References
+
+  ##### [Python Data Science Handbook -- *Jake VanderPlas* ](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+
+  ##### [Machine Learning Mastery -- *Jason Brownlee*](http://machinelearningmastery.com)
+
+  ​
+
+  ​
+
+  ​
+
+  ​
+
+  ​
+
   ### 
 
